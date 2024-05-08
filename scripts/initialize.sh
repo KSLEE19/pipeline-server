@@ -4,6 +4,8 @@
 cd /home/ubuntu/server-univ
 
 # 프로젝트 의존성 설치
+sudo apt-get install npm -y
+
 npm install
 
 # 운영체제 패키지 업데이트
